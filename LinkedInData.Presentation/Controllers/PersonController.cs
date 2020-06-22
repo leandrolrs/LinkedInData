@@ -59,8 +59,8 @@ namespace LinkedInData.Presentation.Controllers
             }
         }
 
-        [HttpGet("GetTopClients/{number}")]
-        public ActionResult<string> GetTopClients(int number)
+        [HttpGet("TopClients/{number}")]
+        public ActionResult<string> TopClients(int number)
         {
             try
             {
@@ -78,8 +78,8 @@ namespace LinkedInData.Presentation.Controllers
         }
 
 
-        [HttpGet("GetClientPosition/{personId}")]
-        public ActionResult<string> GetClientPosition(int personId)
+        [HttpGet("ClientPosition/{personId}")]
+        public ActionResult<string> ClientPosition(int personId)
         {
             try
             {
