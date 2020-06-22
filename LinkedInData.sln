@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedInData.Domain", "Domain\LinkedInData.Domain.csproj", "{90BAEB4D-CAC6-4A55-8C12-DFE01F13A8EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedInData.Domain", "LinkedInData.Domain\LinkedInData.Domain.csproj", "{90BAEB4D-CAC6-4A55-8C12-DFE01F13A8EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8619BE2C-F42F-4EF9-A97F-3943605947AD}"
 EndProject

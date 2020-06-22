@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Domain\LinkedInData.Domain.csproj" />
+    <ProjectReference Include="..\LinkedInData.Domain\LinkedInData.Domain.csproj" />
   </ItemGroup>
 
 </Project>
